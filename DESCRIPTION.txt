@@ -1,0 +1,3 @@
+KeyWordDetection IOS Framework By DaVoice:
+KeyWordDetection is a framework designed to detect specific keywords / wake words in audio input.
+contact us at info@DaVoice.io for more information
